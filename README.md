@@ -15,7 +15,7 @@ I build performant, scalable web applications and cross‑platform mobile apps.
 
 - 🚀 Focus: Frontend (React, Next.js), Mobile (Expo/React Native, Ionic), Backend (Node.js — Express, NestJS, Fastify; Python — Django, FastAPI)
 - 🧠 AI enthusiast
-- 🎓 Studying Physics at college
+- 🎓 Studied Physics at college
 - ♟️ I enjoy chess, reading, and crypto
 
 ## Find me
@@ -25,7 +25,7 @@ I build performant, scalable web applications and cross‑platform mobile apps.
 - Instagram: https://instagram.com/matzbarbosa
 
 ## Skill stack
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,terraform,python,ts,nodejs,figma" />
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,python,js,ts,nodejs,figma" />
 
 ## Tech I use
 - Languages: HTML, CSS, JavaScript, TypeScript, Python
