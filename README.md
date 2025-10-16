@@ -8,31 +8,33 @@ How to use:
 4) Commit and push. Optional: add the provided GitHub Action later to auto-update the "Last updated" line.
 -->
 
-# Hi, I'm YOUR_NAME 👋
+# Hi, I'm Matheus Barbosa 👋
 
-Short tagline about you goes here. For example:
-"Software Engineer building delightful web experiences and scalable backend services."
+Full Stack Web and App Developer with 8+ years of experience.
+I build performant, scalable web applications and cross‑platform mobile apps.
 
-- 🚀 Focus areas: Frontend (React/Next.js), Backend (Node/Express), Cloud/DevOps (Docker/AWS)
-- 🧠 Currently learning: YOUR_TOPICS
-- 💬 Ask me about: YOUR_EXPERTISE
-- 🎯 Goals for 2025: YOUR_GOALS
+- 🚀 Focus: Frontend (React, Next.js), Mobile (Expo/React Native, Ionic), Backend (Node.js — Express, NestJS, Fastify; Python — Django, FastAPI)
+- 🧠 AI enthusiast
+- 🎓 Studying Physics at college
+- ♟️ I enjoy chess, reading, and crypto
 
 ## Find me
-- Website/Portfolio: https://your-portfolio.example
-- LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN/
-- Twitter/X: https://x.com/YOUR_HANDLE
-- Email: you@example.com
+- X/Twitter: https://x.com/thematzbarbosa
+- LinkedIn: https://www.linkedin.com/in/matzbarbosa
+- Email: matzbarbosa@gmail.com
+- Instagram: https://instagram.com/matzbarbosa
+
+## Skill stack
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,terraform,python,ts,nodejs,figma" />
 
 ## Tech I use
-List your core tools, languages, and frameworks. Example:
-
-- Languages: JavaScript, TypeScript, Python, Go
-- Frontend: React, Next.js, Vite, Tailwind CSS
-- Backend: Node.js, Express, FastAPI, GraphQL
-- Databases: PostgreSQL, MongoDB, Redis
-- DevOps: Docker, GitHub Actions, AWS
-- Testing: Jest, Playwright, PyTest
+- Languages: HTML, CSS, JavaScript, TypeScript, Python
+- Frontend: React, Next.js, Vite, Angular, Ionic, Tailwind CSS
+- Mobile: React Native (Expo), Ionic
+- Backend: Node.js (Express, NestJS, Fastify), Python (Django, FastAPI)
+- Databases: MySQL, PostgreSQL, Redis
+- DevOps: Docker, AWS, GitHub Actions, Terraform
+- Testing: Jest, Playwright
 
 ## Projects
 - [PROJECT_NAME_1](https://github.com/YOUR_GITHUB_USERNAME/REPO_1) – One-line description
@@ -46,9 +48,9 @@ List your core tools, languages, and frameworks. Example:
 ## Stats
 Replace YOUR_GITHUB_USERNAME below with your actual GitHub username. These images auto-update.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&count_private=true&show_icons=true&theme=react)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matzbarbosa&count_private=true&show_icons=true&theme=react)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=react)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matzbarbosa&layout=compact&theme=react)
 
 <!-- Optional: Streak stats (remove if not wanted) -->
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=react) -->
