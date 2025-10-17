@@ -25,7 +25,43 @@ I build performant, scalable web applications and cross‑platform mobile apps.
 - Instagram: https://instagram.com/matzbarbosa
 
 ## Skill stack
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,terraform,python,js,ts,nodejs,figma,react,nextjs,vite,expo,angular,laravel,html,css,php,tailwind,django,fastapi,express,nestjs,mysql,postgres,vercel,cloudflare,supabase,redis,prisma,graphql,npm,pnpm,yarn,eslint,prettier&perline=12" />
+
+### Languages
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python&perline=12" />
+
+### Frontend Frameworks
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,angular,tailwind&perline=12" />
+
+### Mobile
+<img src="https://skillicons.dev/icons?i=expo&perline=12" />
+
+### Backend Frameworks & Runtime
+<img src="https://skillicons.dev/icons?i=express,nestjs,django,fastapi,laravel,nodejs&perline=12" />
+
+### Databases
+<img src="https://skillicons.dev/icons?i=mysql,postgres,redis&perline=12" />
+
+### Data/ORM/Graph
+<img src="https://skillicons.dev/icons?i=prisma,graphql&perline=12" />
+
+### Cloud & Hosting
+<img src="https://skillicons.dev/icons?i=aws,vercel,cloudflare,supabase&perline=12" />
+
+### DevOps & Infra
+<img src="https://skillicons.dev/icons?i=docker,terraform&perline=12" />
+
+### Version Control & Platforms
+<img src="https://skillicons.dev/icons?i=git,github&perline=12" />
+
+### Package Managers
+<img src="https://skillicons.dev/icons?i=npm,pnpm,yarn&perline=12" />
+
+### Linting & Formatting
+<img src="https://skillicons.dev/icons?i=eslint,prettier&perline=12" />
+
+### Design
+<img src="https://skillicons.dev/icons?i=figma&perline=12" />
+
 <!-- Unsupported icons on skillicons.dev: ionic, fastify, openai, drizzle -->
 
 ## Tech I use
