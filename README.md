@@ -25,7 +25,7 @@ I build performant, scalable web applications and cross‑platform mobile apps.
 - Instagram: https://instagram.com/matzbarbosa
 
 ## Skill stack
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python&perline=50" /> <img src="https://skillicons.dev/icons?i=react,nextjs,vite,angular,tailwind&perline=50" /> <img src="https://skillicons.dev/icons?i=expo&perline=50" /> <img src="https://skillicons.dev/icons?i=express,nestjs,django,fastapi,laravel,nodejs&perline=50" /> <img src="https://skillicons.dev/icons?i=mysql,postgres,redis&perline=50" /> <img src="https://skillicons.dev/icons?i=prisma,graphql&perline=50" /> <img src="https://skillicons.dev/icons?i=aws,vercel,cloudflare,supabase&perline=50" /> <img src="https://skillicons.dev/icons?i=docker,terraform&perline=50" /> <img src="https://skillicons.dev/icons?i=git,github&perline=50" /> <img src="https://skillicons.dev/icons?i=npm,pnpm,yarn&perline=50" /> <img src="https://skillicons.dev/icons?i=eslint,prettier&perline=50" /> <img src="https://skillicons.dev/icons?i=figma&perline=50" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,react,nextjs,vite,angular,tailwind,expo,express,nestjs,django,fastapi,laravel,nodejs,mysql,postgres,redis,prisma,graphql,aws,vercel,cloudflare,supabase,docker,terraform,git,github,npm,pnpm,yarn,eslint,prettier,figma&perline=50" />
 
 <!-- Unsupported icons on skillicons.dev: ionic, fastify, openai, drizzle -->
 
