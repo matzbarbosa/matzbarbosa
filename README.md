@@ -25,10 +25,10 @@ I build performant, scalable web applications and cross‑platform mobile apps.
 - Instagram: https://instagram.com/matzbarbosa
 
 ## Skill stack
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,python,js,ts,nodejs,figma" />
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,terraform,python,js,ts,nodejs,figma,react,nextjs,vite,expo,angular,ionic,laravel,html,css,php,tailwind,django,fastapi,express,nestjs,fastify,openai&perline=12" />
 
 ## Tech I use
-- Languages: HTML, CSS, JavaScript, TypeScript, Python
+- Languages: HTML, CSS, JavaScript, TypeScript, PHP, Python
 - Frontend: React, Next.js, Vite, Angular, Ionic, Tailwind CSS
 - Mobile: React Native (Expo), Ionic
 - Backend: Node.js (Express, NestJS, Fastify), Python (Django, FastAPI)
