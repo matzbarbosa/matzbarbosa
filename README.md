@@ -8,7 +8,7 @@ How to use:
 4) Commit and push. Optional: add the provided GitHub Action later to auto-update the "Last updated" line.
 -->
 
-# Hi, I'm Matheus Barbosa 👋
+# Hi, I'm Matheus Barbosa
 
 Full Stack Web and App Developer with 8+ years of experience.
 I build performant, scalable web applications and cross‑platform mobile apps.
@@ -23,6 +23,7 @@ I build performant, scalable web applications and cross‑platform mobile apps.
 
 <!-- Unsupported icons on skillicons.dev: expo, ionic, fastify, openai, drizzle, eslint, prettier -->
 
+## More about me...
 ```javascript
 const matz_dev = {
   name: 'Matheus Barbosa',
@@ -93,7 +94,3 @@ Replace YOUR_GITHUB_USERNAME below with your actual GitHub username. These image
 
 <!-- Optional: Streak stats (remove if not wanted) -->
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=react) -->
-
----
-
-Last updated: 2025-01-01 00:00:00 UTC
